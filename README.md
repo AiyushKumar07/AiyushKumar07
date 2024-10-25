@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **aiyushkanojia@gmail.com**
 
+- Portfolio - **https://aiyushkumar.framer.website/**
+
 - ⚡ Fun fact **I'm Cool 😎**
 
 <h3 align="left">Connect with me:</h3>
