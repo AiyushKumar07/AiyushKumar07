@@ -1,32 +1,177 @@
-<img align="center" width="1200" alt="rolling" src="https://i.ibb.co/BsRr2wB/ce694f560636dffcf42ecf40d4f2f962-1.gif">
-<h1 align="center">Hi 👋, I'm Aiyush Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India || Java Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2021/12/What-Is-the-Best-Programming-Language-for-AI-scaled.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiyushkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="aiyushkumar07" /> </p>
+# Enhanced GitHub Profile README for Aiyush Kumar
 
-- 🌱 I’m currently learning **DSA and Web Development**
+<div align="center">
+  
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=100&lines=Hi+👋+I'm+Aiyush+Kumar;Full+Stack+Developer+%7C%7C+Java+Programmer;Building+Secure%2C+Scalable+Applications;Open+Source+Enthusiast+%26+Problem+Solver)](https://git.io/typing-svg)
 
-- 💬 Ask me about **Java**
+<!-- Animated Wave GIF -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling"/>
 
-- 📫 How to reach me **aiyushkanojia@gmail.com**
+</div>
 
-- Portfolio - **https://aiyushkumar.framer.website/**
+---
 
-- ⚡ Fun fact **I'm Cool 😎**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aiyush-kumar-ba8485137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiyush-kumar-ba8485137" height="30" width="40" /></a>
-<a href="https://instagram.com/aiyush._kumar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aiyush._kumar007" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/a_kumar007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a_kumar007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aiyush007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aiyush007" height="30" width="40" /></a>
-</p>
+<img align="right" alt="Developer Animation" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="php" width="40" height="40"/> </a></p>
+🎯 **Currently Learning:** DSA & Advanced Web Development  
+💼 **Role:** Assistant Software Developer at McKinsey Rice  
+🔧 **Expertise:** Full Stack Development, Security Libraries, AI Tools  
+🌱 **Focus:** Building production-grade applications with 90%+ performance improvements  
+📧 **Contact:** [aiyushkanojia@gmail.com](mailto:aiyushkanojia@gmail.com)  
+🌐 **Portfolio:** [aiyushkumar.framer.website](https://aiyushkumar.framer.website/)  
+⚡ **Fun Fact:** I optimize everything – from code to coffee brewing! ☕
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aiyushkumar07&show_icons=true&locale=en&layout=compact" alt="aiyushkumar07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aiyushkumar07&show_icons=true&locale=en" alt="aiyushkumar07" /></p>
+## 🏆 GitHub Achievements & Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiyushkumar07&" alt="aiyushkumar07" /></p>
+<div align="center">
+
+<!-- GitHub Profile Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=aiyushkumar07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+  
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aiyushkumar07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aiyushkumar07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=aiyushkumar07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+[![Aiyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aiyushkumar07&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+<div align="center">
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Tools & Technologies**
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Featured Projects & Contributions
+
+<div align="center">
+
+<!-- Repository Cards -->
+[![Secure Capsule](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aiyushkumar07&repo=secure-capsule&theme=tokyonight&hide_border=true)](https://github.com/AiyushKumar07/secure-capsule)
+[![PR Scribe AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aiyushkumar07&repo=ai-pr-extension&theme=tokyonight&hide_border=true)](https://github.com/AiyushKumar07/ai-pr-extension)
+</div>
+
+### 🚀 **Recent Achievements:**
+- 📦 **Secure-Capsule NPM Package:** Zero-dependency encryption library with AES-256 & RSA-2048
+- 🎯 **Performance Optimization:** Reduced query latency by 95% (2700ms → 127ms) 
+- 🔒 **Security Innovation:** Engineered nested field-level encryption with obfuscated field names
+- 🤖 **AI-Powered Chrome Extension:** Privacy-first PR description generator using OpenAI/Gemini 
+- ⚡ **System Optimization:** Cut platform download times by 90% (5min → 30sec)
+
+---
+
+## 📊 Coding Activity
+
+<div align="center">
+
+<!-- WakaTime Stats (if you have WakaTime setup) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- Dev Quote -->
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<!-- Visitor Count -->
+![Profile Views](https://komarev.com/ghpvc/?username=aiyushkumar07&color=0e75b6&style=for-the-badge)
+
+### Let's build something amazing together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiyush-kumar-ba8485137)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aiyush._kumar007)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aiyush007)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/a_kumar007)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~aiyush007)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/github-pr-scribe-ai/ajnplipmiafledgelgdajdfepjamafml)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- GitHub Snake Animation -->
+![Snake animation](https://github.com/aiyushkumar07/aiyushkumar07/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Thank you for visiting my profile! Feel free to star ⭐ repositories you find interesting!**
+
+</div>
