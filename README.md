@@ -17,7 +17,7 @@
 <img align="right" alt="Developer Animation" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 🎯 **Currently Learning:** DSA & Advanced Web Development  
-💼 **Role:** Assistant Software Developer at McKinsey Rice  
+💼 **Role:** Assistant Software Developer at McKinley Rice  
 🔧 **Expertise:** Full Stack Development, Security Libraries, AI Tools  
 🌱 **Focus:** Building production-grade applications with 90%+ performance improvements  
 📧 **Contact:** [aiyushkanojia@gmail.com](mailto:aiyushkanojia@gmail.com)  
