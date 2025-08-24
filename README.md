@@ -29,13 +29,6 @@
 ## 🏆 GitHub Achievements & Stats
 
 <div align="center">
-
-<!-- GitHub Profile Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=aiyushkumar07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
   
 <!-- GitHub Stats Cards -->
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aiyushkumar07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -157,9 +150,6 @@
 ---
 
 <div align="center">
-
-<!-- GitHub Snake Animation -->
-![Snake animation](https://github.com/aiyushkumar07/aiyushkumar07/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Animated Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
